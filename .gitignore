@@ -1,0 +1,6 @@
+.env
+__pycache__/
+/venv/*
+
+Integrer-des-API-dIntelligence-Artificielle.pdf
+TP-API.pdf
